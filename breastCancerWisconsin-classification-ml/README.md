@@ -12,8 +12,6 @@ O dataset **Breast Cancer Wisconsin** contém atributos numéricos extraídos de
 
 Além disso, alguns atributos permitem tarefas de **regressão**, como a estimativa da área média do tumor.
 
----
-
 ## 🧪 Notebook 1 – KNN, Classificação e Regressão Linear
 
 `knn_linearRegression_models.ipynb`
@@ -36,17 +34,15 @@ Neste notebook, são aplicados conceitos fundamentais do ciclo de vida de um mod
 - Construção e avaliação de um modelo de **Regressão Linear**;
 - Análise dos **resíduos** e das métricas estatísticas associadas ao modelo de regressão.
 
----
-
 ## 🔍 Notebook 2 – Comparação de Modelos de Classificação
 
-`classification_ models_ comparison`
+`classification_models_comparison.ipynb`
 
 Neste notebook, o foco é a **avaliação avançada de desempenho** e a **comparação entre modelos de classificação**, utilizando o KNN como modelo baseline.
 
 ### Objetivos
 
-- Implementar um novo modelo de classificação (ex.: Regressão Logística, Árvore de Decisão, Random Forest, SVM, etc.);
+- Implementar um novo modelo de classificação; Regressão Logística.
 - Comparar o desempenho do novo modelo com o **baseline KNN**.
 
 ### Metodologia
@@ -71,8 +67,6 @@ Neste notebook, o foco é a **avaliação avançada de desempenho** e a **compar
   - Métricas mais relevantes para o problema;
   - Vantagens e limitações dos algoritmos escolhidos.
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Python
@@ -81,8 +75,6 @@ Neste notebook, o foco é a **avaliação avançada de desempenho** e a **compar
   - Pandas
   - Scikit-learn
   - Matplotlib / Seaborn
-
----
 
 ## 📌 Observações
 
