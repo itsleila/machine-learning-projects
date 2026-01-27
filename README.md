@@ -115,7 +115,6 @@ Projeto baseado no dataset **Breast Cancer Wisconsin**, voltado para problemas d
 - Recall
 - F1-score
 
----
 
 ## Tecnologias Utilizadas:
 
@@ -126,7 +125,6 @@ Projeto baseado no dataset **Breast Cancer Wisconsin**, voltado para problemas d
 - Matplotlib
 - Seaborn
 
----
 
 ## Objetivo do Repositório
 
