@@ -1,4 +1,4 @@
-# Breast Cancer Wisconsin – Modelos de Machine Learning
+# 🧬 Breast Cancer Wisconsin – Modelos de Machine Learning
 
 Este repositório contém atividades práticas de **Machine Learning** desenvolvidas a partir do dataset **Breast Cancer Wisconsin**, amplamente utilizado para estudos de classificação e análise de dados na área da saúde.  
 O objetivo principal é aplicar conceitos fundamentais e avançados do ciclo de vida de modelos de ML, comparando diferentes abordagens de classificação e regressão.

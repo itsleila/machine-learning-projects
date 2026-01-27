@@ -1,4 +1,4 @@
-# Classificação de Clientes por Canal de Compra
+# 🛒 Classificação de Clientes por Canal de Compra
 
 Este projeto tem como objetivo aplicar modelos de **Machine Learning** para classificar clientes de uma distribuidora de produtos alimentícios de acordo com o **canal de compra**:
 
